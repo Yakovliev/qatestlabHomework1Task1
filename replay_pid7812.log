@@ -281,7 +281,7 @@ instanceKlass org/openqa/selenium/WebDriver
 instanceKlass org/openqa/selenium/SearchContext
 instanceKlass java/lang/Class$MethodArray
 instanceKlass sun/launcher/LauncherHelper$FXHelper
-instanceKlass task1
+instanceKlass Task1
 instanceKlass java/net/Socket$2
 instanceKlass sun/net/NetHooks
 instanceKlass java/util/ArrayList$Itr
