@@ -21,9 +21,6 @@ public class task1 {
 
         Thread.sleep(3000);
 
-        //Select employeeIcon = new Select(driver.findElement(By.id("header_employee_box")));
-        //employeeIcon.selectByIndex(0);
-
         WebElement employeeIcon = driver.findElement(By.id("header_employee_box"));
         employeeIcon.click();
 
